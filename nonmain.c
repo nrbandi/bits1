@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Hellow");
+    printf("Hello Checking");
 }
 //this is a new comment
